@@ -1,8 +1,16 @@
-### 🎯 Product Specialist @ Enosis Outsourcing | B2B Marketplace | PRD Writing • Product Design • QA
+### 🎯 Product Specialist @ Enosis Outsourcing | Plan • Design • Code • QA • Ship
 
-I work on **Enosis Outsourcing (EOS)**, a B2B marketplace connecting buyers with software development and outsourcing companies. I own the full product lifecycle end to end. I take features from brainstorming and requirements through spec writing, prototyping, QA execution, developer handoff and delivery.
+**A Product Specialist who doesn't stop at the spec.** I plan features, design them, write the code, test them, and see them through to delivery. One person covers the whole path from idea to working product.
 
-My focus is bridging product thinking and execution. I write in-depth PRDs, build high-fidelity interactive prototypes, run rigorous UAT across the platform, and partner closely with engineering to make sure what ships holds up. I also turn specs into production-grade code myself, using AI-assisted development to deliver complete features across the backend and frontend.
+I work on **Enosis Outsourcing (EOS)**, a B2B marketplace connecting buyers with software development and outsourcing companies. I own the full product lifecycle end to end.
+
+| | What I do |
+|---|---|
+| 🧭 **Plan** | Shape features from brainstorming into roadmaps, in-depth PRDs and implementation-ready specs |
+| 🎨 **Design** | Map flows and state machines, and build high-fidelity interactive prototypes for every user journey |
+| 💻 **Code** | Turn specs into production-grade backend and frontend code, using AI-assisted development |
+| 🧪 **QA** | Design and run rigorous UAT and regression testing, and track every defect through to resolution |
+| 🚀 **Execute** | Drive features from first idea to delivery, working closely with engineering at every step |
 
 ---
 
