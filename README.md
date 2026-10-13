@@ -1,8 +1,8 @@
 ### 🎯 Product Specialist @ Enosis Outsourcing | B2B Marketplace | PRD Writing • Product Design • QA
 
-I work on **Enosis Outsourcing (EOS)**, a B2B marketplace connecting buyers with software development and outsourcing companies. My role covers the full product lifecycle. I take a feature from brainstorming and requirements through spec writing, prototyping, QA execution, and developer handoff.
+I work on **Enosis Outsourcing (EOS)**, a B2B marketplace connecting buyers with software development and outsourcing companies. I own the full product lifecycle end to end. I take features from brainstorming and requirements through spec writing, prototyping, QA execution, developer handoff and delivery.
 
-My focus is bridging product thinking and execution. I write detailed PRDs, build interactive prototypes, run structured UAT sweeps, and coordinate closely with engineering to make sure what ships actually holds up. I also take specs into working code myself, using AI-assisted development to ship features across the backend and frontend.
+My focus is bridging product thinking and execution. I write in-depth PRDs, build high-fidelity interactive prototypes, run rigorous UAT across the platform, and partner closely with engineering to make sure what ships holds up. I also turn specs into production-grade code myself, using AI-assisted development to deliver complete features across the backend and frontend.
 
 ---
 
@@ -11,21 +11,21 @@ My focus is bridging product thinking and execution. I write detailed PRDs, buil
 **Product Design**
 - **Feature Design:** Led the end-to-end design of the Milestones feature, replacing a single end-of-project endorsement with a multi-checkpoint review system
 - **Flow Design:** Redesigned the sign-up and company claim flow around OTP-only auth and domain-matched instant access
-- **State Machine Design:** Modeled the EOS-2671 project flow across six states, backed by a full PRD suite
-- **Platform Migration:** Planned and led the move of the Performance Monitoring Dashboard (PMD) from a standalone app into the EOS platform
+- **State Machine Design:** Modeled complex multi-state project flows, backed by comprehensive PRD suites
+- **Platform Migration:** Planned and led the integration of the Performance Monitoring Dashboard (PMD) from a standalone app into the core EOS platform
 
 **Requirements & Documentation**
-- **PRD Writing:** Master specs, gap docs, and technical implementation specs ready for engineering handoff
-- **Prototyping:** Clickable single-file HTML prototypes covering both buyer and vendor journeys
-- **Process Mapping:** Mermaid flowcharts for state machines and edge cases
+- **PRD Writing:** Master specs, gap analyses, and technical implementation specs ready for engineering handoff
+- **Prototyping:** Clickable, high-fidelity prototypes covering both buyer and vendor journeys
+- **Process Mapping:** Detailed flowcharts for state machines, edge cases and system behavior
 
 **AI-Assisted Delivery**
-- **Spec to Code:** Turned PMD migration plans into working backend and frontend code across two codebases
-- **Developer Docs:** Wrote the PMD developer guides, API migration plan and migration status docs for the engineering team
+- **Spec to Code:** Took large-scale migration plans all the way to working backend and frontend code across multiple codebases
+- **Developer Docs:** Authored developer guides, API migration plans and migration status reports for the engineering team
 
 **QA & Testing**
-- **UAT Execution:** Ran a 296-row test checklist across roughly 25 pages of the staging environment
-- **Bug Documentation:** Logged and tracked confirmed failures through to resolution
+- **UAT Execution:** Designed and ran extensive test suites covering the full breadth of the platform in staging
+- **Bug Documentation:** Logged, prioritized and tracked defects through to resolution
 
 ---
 
@@ -61,17 +61,17 @@ My focus is bridging product thinking and execution. I write detailed PRDs, buil
 
 ### 🏗️ Featured Product Work
 
-**Performance Monitoring Dashboard (PMD) Migration**
-Brought PMD, a standalone project delivery app, into the EOS platform as a 5-phase migration across two codebases, built in ~87 commits (32 backend, 55 frontend). It covers projects with a full lifecycle and client invitations, milestones with a review cycle, notifications and scheduled jobs, and publishing to EOS with public milestone reviews and capstone endorsements. Clients can review a milestone from an emailed link without signing in. EOS staff get one All Projects list and a queue to approve publish requests. Existing EOS projects were imported into PMD, and each public project now follows its PMD project's status. Wrote the migration plan, status docs and developer guides alongside the code.
+**Performance Monitoring Dashboard (PMD) Integration**
+Led a large-scale, multi-phase migration that brought PMD, a standalone project delivery app, into the core EOS platform across both the backend and the frontend. The work covers the full project lifecycle with client invitations, milestones with a structured review cycle, notifications and scheduled jobs, and publishing to EOS with public milestone reviews and capstone endorsements. It also includes passwordless milestone reviews for clients from an emailed link, a unified project view and publish approval queue for EOS staff, a data import of existing EOS projects, and status kept in sync between PMD and the public site. I authored the migration plan, status reports and developer guides alongside the code.
 
 **Milestones Feature**
-Redesigned project completion from a single end-of-project endorsement to a multi-checkpoint milestone review system. Locked the data model, the rating approach, and a 7-day admin arbitration fallback. Delivered a clickable prototype and a full technical spec for engineering handoff.
+Redesigned project completion from a single end-of-project endorsement to a multi-checkpoint milestone review system. Defined the data model, the rating approach, and an admin arbitration fallback for disputed reviews. Delivered a clickable prototype and a full technical spec for engineering handoff.
 
 **Sign-Up & Company Claim Flow Redesign**
-Simplified account creation with OTP-only auth and domain-matched instant access, unifying the claim and sign-up flows into one path. Delivered an interactive prototype and a JIRA ticket.
+Simplified account creation with OTP-only auth and domain-matched instant access, unifying the claim and sign-up flows into a single path. Delivered an interactive prototype and implementation-ready requirements.
 
-**EOS-2671: Project Flow State Machine**
-Modeled a six-state project flow with a full PRD suite, including a master spec, gap docs, a QA tracker, and Mermaid flowcharts.
+**Project Flow State Machine**
+Modeled a complex multi-state project flow with a comprehensive PRD suite, including a master spec, gap analyses, a QA tracker, and detailed flowcharts.
 
-**Staging UAT Sweep**
-Ran a large-scale UAT pass across the staging environment. Built a 296-row checklist covering roughly 25 pages and documented confirmed failures for the engineering team.
+**Platform-Wide UAT**
+Planned and ran an extensive UAT program across the staging environment. Built a comprehensive checklist spanning the platform's pages and user journeys, and documented confirmed failures for the engineering team through to resolution.
