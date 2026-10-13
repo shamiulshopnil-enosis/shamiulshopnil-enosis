@@ -2,7 +2,7 @@
 
 I work on **Enosis Outsourcing (EOS)**, a B2B marketplace connecting buyers with software development and outsourcing companies. My role covers the full product lifecycle. I take a feature from brainstorming and requirements through spec writing, prototyping, QA execution, and developer handoff.
 
-My focus is bridging product thinking and execution. I write detailed PRDs, build interactive prototypes, run structured UAT sweeps, and coordinate closely with engineering to make sure what ships actually holds up.
+My focus is bridging product thinking and execution. I write detailed PRDs, build interactive prototypes, run structured UAT sweeps, and coordinate closely with engineering to make sure what ships actually holds up. I also take specs into working code myself, using AI-assisted development to ship features across the backend and frontend.
 
 ---
 
@@ -12,11 +12,16 @@ My focus is bridging product thinking and execution. I write detailed PRDs, buil
 - **Feature Design:** Led the end-to-end design of the Milestones feature, replacing a single end-of-project endorsement with a multi-checkpoint review system
 - **Flow Design:** Redesigned the sign-up and company claim flow around OTP-only auth and domain-matched instant access
 - **State Machine Design:** Modeled the EOS-2671 project flow across six states, backed by a full PRD suite
+- **Platform Migration:** Planned and led the move of the Performance Monitoring Dashboard (PMD) from a standalone app into the EOS platform
 
 **Requirements & Documentation**
 - **PRD Writing:** Master specs, gap docs, and technical implementation specs ready for engineering handoff
 - **Prototyping:** Clickable single-file HTML prototypes covering both buyer and vendor journeys
 - **Process Mapping:** Mermaid flowcharts for state machines and edge cases
+
+**AI-Assisted Delivery**
+- **Spec to Code:** Turned PMD migration plans into working backend and frontend code across two codebases
+- **Developer Docs:** Wrote the PMD developer guides, API migration plan and migration status docs for the engineering team
 
 **QA & Testing**
 - **UAT Execution:** Ran a 296-row test checklist across roughly 25 pages of the staging environment
@@ -45,9 +50,19 @@ My focus is bridging product thinking and execution. I write detailed PRDs, buil
 ![Bug Tracking](https://img.shields.io/badge/Bug%20Tracking-EA580C?style=for-the-badge)
 ![Regression Testing](https://img.shields.io/badge/Regression%20Testing-991B1B?style=for-the-badge)
 
+**Engineering**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![AI-Assisted Development](https://img.shields.io/badge/AI--Assisted%20Development-D97757?style=for-the-badge&logo=claude&logoColor=white)
+
 ---
 
 ### 🏗️ Featured Product Work
+
+**Performance Monitoring Dashboard (PMD) Migration**
+Brought PMD, a standalone project delivery app, into the EOS platform as a 5-phase migration across two codebases, built in ~87 commits (32 backend, 55 frontend). It covers projects with a full lifecycle and client invitations, milestones with a review cycle, notifications and scheduled jobs, and publishing to EOS with public milestone reviews and capstone endorsements. Clients can review a milestone from an emailed link without signing in. EOS staff get one All Projects list and a queue to approve publish requests. Existing EOS projects were imported into PMD, and each public project now follows its PMD project's status. Wrote the migration plan, status docs and developer guides alongside the code.
 
 **Milestones Feature**
 Redesigned project completion from a single end-of-project endorsement to a multi-checkpoint milestone review system. Locked the data model, the rating approach, and a 7-day admin arbitration fallback. Delivered a clickable prototype and a full technical spec for engineering handoff.
